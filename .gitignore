@@ -1,0 +1,46 @@
+# Quartus build artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.bak
+*.rpt
+*.done
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.sld
+*.sof
+*.pof
+
+# ModelSim artifacts
+work/
+transcript
+vsim.wlf
+*.mti
+*.mpf
+
+# Quartus pin model dumps
+c5_pin_model_dump.txt
+
+# Backup files
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project report
+*.pdf
+*.docx
+~$*
+
+# Temporary extraction folder
+_pdf_images/
+
+# Text code dumps
+*.txt
+!README.md
