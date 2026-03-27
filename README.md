@@ -138,6 +138,8 @@ Both tasks share a common **VGA Adapter IP core** that handles:
 |:--|:--|
 | **Verilog HDL** | Hardware description language |
 | **Intel Quartus Prime 20.1** (Lite Edition) | Synthesis, place & route, pin assignment |
+| **Xilinx Vivado** | FPGA design, synthesis & implementation |
+| **HLS (High-Level Synthesis)** | C/C++ to RTL hardware acceleration |
 | **DE1-SoC Board** (Cyclone V 5CSEMA5F31C6) | FPGA hardware verification |
 | **VGA Monitor** | Real-time display output via DAC |
 
